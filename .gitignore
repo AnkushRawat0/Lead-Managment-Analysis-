@@ -28,7 +28,6 @@ Thumbs.db
 
 # Data files (large datasets)
 Data/
-*.csv
 *.xlsx
 *.json
 
