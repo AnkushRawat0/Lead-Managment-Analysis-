@@ -1,0 +1,46 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Environment variables / secrets
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Data files (large datasets)
+Data/
+*.csv
+*.xlsx
+*.json
+
+# Model files
+*.pkl
+*.joblib
+*.h5
+
+# Temporary files
+*.tmp
+*.temp
+
+# Build folders
+dist/
+build/
